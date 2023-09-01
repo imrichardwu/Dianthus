@@ -29,5 +29,6 @@ Welcome to Dianthus, a sophisticated React web application with a Supabase as th
 <img width="1467" alt="Screenshot 2023-09-01 at 12 46 55 PM" src="https://github.com/imrichardwu/Dianthus/assets/123898971/20d8ba63-d5da-4faa-b20e-29ad3c72747d">
 <img width="1464" alt="Screenshot 2023-09-01 at 12 47 53 PM" src="https://github.com/imrichardwu/Dianthus/assets/123898971/adb9567e-62a7-4fa4-a9a9-7530b53bd367">
 <img width="1461" alt="Screenshot 2023-09-01 at 12 48 01 PM" src="https://github.com/imrichardwu/Dianthus/assets/123898971/9dcec356-e8bc-4fe6-9fa5-6bc6e0e6e039">
+<img width="1459" alt="Screenshot 2023-09-01 at 12 48 16 PM" src="https://github.com/imrichardwu/Dianthus/assets/123898971/37f55935-02b3-43f8-8706-ea036b2362fe">
 <img width="1463" alt="Screenshot 2023-09-01 at 12 48 25 PM" src="https://github.com/imrichardwu/Dianthus/assets/123898971/0ef24b1a-0da1-412c-950d-3dbfce79d953">
 
