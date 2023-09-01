@@ -24,10 +24,10 @@ Welcome to Dianthus, a sophisticated React web application with a Supabase as th
 🍞 **Toaster Notifications**: The `react-hot-toast` library provides toast notifications at the top-center of the screen, offering timely feedback and communication.
 
 ⚙️ **Query Client Customization**: We've fine-tuned the Query Client with custom default options, allowing you to control query behavior, including a short `staleTime` for real-time data freshness.
-<img width="1459" alt="Screenshot 2023-09-01 at 12 48 16 PM" src="https://github.com/imrichardwu/Dianthus/assets/123898971/4b09471e-822d-43a5-90c2-29c11bc552d6">
-<img width="1461" alt="Screenshot 2023-09-01 at 12 48 01 PM" src="https://github.com/imrichardwu/Dianthus/assets/123898971/695d646f-057e-4b8b-89ba-0011c12ddf63">
-<img width="1464" alt="Screenshot 2023-09-01 at 12 47 53 PM" src="https://github.com/imrichardwu/Dianthus/assets/123898971/00be36ed-ac61-4c70-bcd5-2e96e372ba28">
-<img width="1467" alt="Screenshot 2023-09-01 at 12 46 55 PM" src="https://github.com/imrichardwu/Dianthus/assets/123898971/552ca565-a310-46aa-bd57-7783f9222f63">
-<img width="1464" alt="Screenshot 2023-09-01 at 12 46 30 PM" src="https://github.com/imrichardwu/Dianthus/assets/123898971/0e704e0f-4f01-44a3-a8c8-f59192cf03ee">
-<img width="1463" alt="Screenshot 2023-09-01 at 12 48 25 PM" src="https://github.com/imrichardwu/Dianthus/assets/123898971/038602ca-e231-43a2-a067-1aa962a4c9cd">
+
+<img width="1464" alt="Screenshot 2023-09-01 at 12 46 30 PM" src="https://github.com/imrichardwu/Dianthus/assets/123898971/01b5ae8a-484d-4708-bb27-cbfd0e40fd14">
+<img width="1467" alt="Screenshot 2023-09-01 at 12 46 55 PM" src="https://github.com/imrichardwu/Dianthus/assets/123898971/20d8ba63-d5da-4faa-b20e-29ad3c72747d">
+<img width="1464" alt="Screenshot 2023-09-01 at 12 47 53 PM" src="https://github.com/imrichardwu/Dianthus/assets/123898971/adb9567e-62a7-4fa4-a9a9-7530b53bd367">
+<img width="1461" alt="Screenshot 2023-09-01 at 12 48 01 PM" src="https://github.com/imrichardwu/Dianthus/assets/123898971/9dcec356-e8bc-4fe6-9fa5-6bc6e0e6e039">
+<img width="1463" alt="Screenshot 2023-09-01 at 12 48 25 PM" src="https://github.com/imrichardwu/Dianthus/assets/123898971/0ef24b1a-0da1-412c-950d-3dbfce79d953">
 
